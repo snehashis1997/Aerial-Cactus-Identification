@@ -7,3 +7,4 @@ Determine whether an image contains a columnar cactus
 
 
 ![image](https://user-images.githubusercontent.com/33135767/92591312-4a71ce80-f2bb-11ea-9f8a-c7087d0443de.png)
+![image](https://user-images.githubusercontent.com/33135767/92601690-c293c080-f2ca-11ea-88e0-00170a2dda1f.png)
