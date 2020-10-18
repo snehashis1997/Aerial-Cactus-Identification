@@ -1,5 +1,5 @@
 # Aerial-Cactus-Identification 
-Determine whether an image contains a columnar cactus
+### Determine whether an image contains a columnar cactus
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/92601690-c293c080-f2ca-11ea-88e0-00170a2dda1f.png" width="200" height="200"/>
